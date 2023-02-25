@@ -1,6 +1,6 @@
 # Cheat Sheet
 
-List of all glyphs for the [cheat-sheet](nerdfonts.com/cheat-sheet)
+List of all glyphs for the [cheat-sheet](https://www.nerdfonts.com/cheat-sheet)
 
 The glyphs get their names through the individual (per glyph source) i\_\*.sh files in this directory.
 Only glyphs listed here could be found with the cheat sheet.
